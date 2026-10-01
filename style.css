@@ -2,6 +2,12 @@
     margin: 0;
 }
 
+header{
+    position: fixed;
+    background-color: #fff;
+    width: 100%;
+}
+
 .hero__container{
     display: flex;
     justify-content: space-between;

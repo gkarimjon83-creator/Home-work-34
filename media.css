@@ -3,6 +3,12 @@
         display: none;
     }
 
+    header{
+    position: fixed;
+    background-color: #fff;
+    width: 100%;
+    }
+
     .div-11{
         display: flex;
         justify-content: space-between;
